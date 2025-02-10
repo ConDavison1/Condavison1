@@ -2,7 +2,15 @@
 
 
 # Hi, Im Connor Davison
-🚀 Software Developer Looking to learn and grow in the tech industry  <br>🎓 Diploma in Software Development at the Southern Alberta Institute of Technology  <br>💻 Getting my degree in Computer Science at the University of Lethbridge  <br>🛠️ Love making side projects to gain knowledge and make a difference in the tech world  <br>📚 Learning everyday  
+🚀 Software Developer Looking to learn and grow in the tech industry  
+
+<br>🎓 Diploma in Software Development at the Southern Alberta Institute of Technology  
+
+<br>💻 Getting my degree in Computer Science at the University of Lethbridge  
+
+<br>🛠️ Love making side projects to gain knowledge and make a difference in the tech world  
+
+<br>📚 Learning everyday  
 
 
 ## 🌐 Socials
