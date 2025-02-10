@@ -1,3 +1,6 @@
+<img src="https://raw.githubusercontent.com/ConDavison1/Condavison1/main/assets/Github_profile.png" width="100%" height="300">
+
+
 # Hi, Im Connor Davison:
 🚀 Software Developer Looking to learn and grow in the tech industry  <br>🎓 Studied Software Development at the Southern Alberta Institute of Technology  <br>💻 Getting my degree in Computer Science at the University of Lethbridge  <br>🛠️ Love making side projects to gain knowledge and make a difference in the tech world  <br>📚 Learning everyday  
 
