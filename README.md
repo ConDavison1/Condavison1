@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/ConDavison1/Condavison1/main/assets/Github_profile.png" width="100%" height="300">
+<img src="assets/calgary.jpg" width="100%" height="500" />
+
 
 
 # Hi, Im Connor Davison
